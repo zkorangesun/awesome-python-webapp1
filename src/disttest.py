@@ -21,3 +21,4 @@ def my_abs(arg):
 	return abs(arg)
 
 print my_abs(-101)
+print "hello"

@@ -1,2 +1,3 @@
 #!/usr/bin/env python
-print 'hello world!','hello','test'
+# -*- coding: utf-8 -*-
+print u'中文'.encode('utf-8')
